@@ -1,9 +1,3 @@
 <resources>
-    <string name="app_name">Purwokerto Explore</string>
-    <string-array name="daftar_kota">
-        <item>Semarang (SRG)</item>
-        <item>Surabaya (SUB)</item>
-        <item>Bali (DPS)</item>
-        <item>Jakarta (HLP)</item>
-    </string-array>
+    <string name="app_name">Wisata Apps</string>
 </resources>
